@@ -16,7 +16,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SleemMostafa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="readme-stats" width="48%" />
   <img src="streak.svg" width="48%" />
 </p>
 
