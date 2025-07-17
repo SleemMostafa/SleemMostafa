@@ -16,7 +16,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="readme-stats" width="48%" />
+  <img src="readme-stats.svg" width="48%" />
   <img src="streak.svg" width="48%" />
 </p>
 
